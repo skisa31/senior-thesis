@@ -1,0 +1,136 @@
+condition3
+date: 12/Jan/2021:16:21:14 , slide: id=6
+<SW>
+date: 12/Jan/2021:16:22:06 , slide: id=8
+date: 12/Jan/2021:16:22:07 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:22:14 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:22:21 , slide: id=4
+date: 12/Jan/2021:16:22:26 , slide: id=6
+date: 12/Jan/2021:16:22:28 , slide: id=8
+<SW>
+date: 12/Jan/2021:16:22:52 , slide: id=10
+<SW>
+<SW>
+date: 12/Jan/2021:16:23:19 , slide: id=8
+<SW>
+date: 12/Jan/2021:16:23:22 , slide: id=6
+date: 12/Jan/2021:16:23:28 , slide: id=8
+date: 12/Jan/2021:16:23:29 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:23:39 , slide: id=6
+<SW>
+date: 12/Jan/2021:16:23:50 , slide: id=8
+<SW>
+<SW>
+date: 12/Jan/2021:16:24:19 , slide: id=4
+date: 12/Jan/2021:16:24:21 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:24:26 , slide: id=4
+date: 12/Jan/2021:16:24:29 , slide: id=6
+date: 12/Jan/2021:16:24:30 , slide: id=8
+date: 12/Jan/2021:16:24:33 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:24:39 , slide: id=8
+date: 12/Jan/2021:16:24:43 , slide: id=10
+<SW>
+<SW>
+date: 12/Jan/2021:16:25:04 , slide: id=4
+date: 12/Jan/2021:16:25:08 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:25:22 , slide: id=4
+<SW>
+date: 12/Jan/2021:16:25:29 , slide: id=0
+date: 12/Jan/2021:16:25:30 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:25:40 , slide: id=4
+<SW>
+date: 12/Jan/2021:16:25:51 , slide: id=6
+date: 12/Jan/2021:16:25:52 , slide: id=8
+date: 12/Jan/2021:16:25:59 , slide: id=6
+<SW>
+date: 12/Jan/2021:16:26:06 , slide: id=8
+date: 12/Jan/2021:16:26:08 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:26:21 , slide: id=8
+date: 12/Jan/2021:16:26:23 , slide: id=6
+<SW>
+date: 12/Jan/2021:16:26:25 , slide: id=4
+date: 12/Jan/2021:16:26:33 , slide: id=2
+condition4
+date: 12/Jan/2021:16:56:52 , slide: id=8
+date: 12/Jan/2021:16:56:56 , slide: id=10
+<SW>
+<SW>
+date: 12/Jan/2021:16:57:15 , slide: id=8
+date: 12/Jan/2021:16:57:16 , slide: id=6
+date: 12/Jan/2021:16:57:17 , slide: id=4
+date: 12/Jan/2021:16:57:19 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:57:23 , slide: id=8
+<SW>
+date: 12/Jan/2021:16:57:37 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:57:46 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:58:00 , slide: id=0
+<SW>
+date: 12/Jan/2021:16:58:10 , slide: id=8
+date: 12/Jan/2021:16:58:18 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:58:22 , slide: id=2
+<SW>
+date: 12/Jan/2021:16:58:31 , slide: id=0
+date: 12/Jan/2021:16:58:35 , slide: id=6
+date: 12/Jan/2021:16:58:39 , slide: id=8
+<SW>
+date: 12/Jan/2021:16:58:48 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:58:56 , slide: id=2
+date: 12/Jan/2021:16:59:04 , slide: id=0
+<SW>
+date: 12/Jan/2021:16:59:08 , slide: id=6
+date: 12/Jan/2021:16:59:10 , slide: id=8
+date: 12/Jan/2021:16:59:12 , slide: id=10
+<SW>
+date: 12/Jan/2021:16:59:19 , slide: id=8
+date: 12/Jan/2021:16:59:20 , slide: id=6
+<SW>
+date: 12/Jan/2021:16:59:31 , slide: id=10
+date: 12/Jan/2021:16:59:40 , slide: id=8
+<SW>
+date: 12/Jan/2021:16:59:44 , slide: id=6
+date: 12/Jan/2021:16:59:51 , slide: id=8
+<SW>
+date: 12/Jan/2021:16:59:58 , slide: id=6
+<SW>
+date: 12/Jan/2021:17:00:08 , slide: id=8
+date: 12/Jan/2021:17:00:10 , slide: id=10
+date: 12/Jan/2021:17:00:14 , slide: id=8
+<SW>
+date: 12/Jan/2021:17:00:22 , slide: id=10
+<SW>
+date: 12/Jan/2021:17:00:29 , slide: id=8
+date: 12/Jan/2021:17:00:30 , slide: id=6
+date: 12/Jan/2021:17:00:36 , slide: id=4
+date: 12/Jan/2021:17:00:38 , slide: id=2
+<SW>
+date: 12/Jan/2021:17:00:42 , slide: id=8
+date: 12/Jan/2021:17:00:47 , slide: id=10
+<SW>
+date: 12/Jan/2021:17:00:55 , slide: id=8
+date: 12/Jan/2021:17:00:58 , slide: id=10
+date: 12/Jan/2021:17:01:00 , slide: id=8
+date: 12/Jan/2021:17:01:01 , slide: id=10
+<SW>
+<SW>
+date: 12/Jan/2021:17:01:22 , slide: id=8
+date: 12/Jan/2021:17:01:24 , slide: id=6
+<SW>
+date: 12/Jan/2021:17:01:30 , slide: id=4
+date: 12/Jan/2021:17:01:32 , slide: id=2
+<SW>
+date: 12/Jan/2021:17:01:42 , slide: id=6
+date: 12/Jan/2021:17:01:44 , slide: id=8
+date: 12/Jan/2021:17:01:49 , slide: id=10

@@ -1,0 +1,31 @@
+condition4
+date: 10/Jan/2021:11:05:13 , slide: id=2
+date: 10/Jan/2021:11:05:29 , slide: id=0
+date: 10/Jan/2021:11:08:24 , slide: id=6
+date: 10/Jan/2021:11:08:35 , slide: id=0
+date: 10/Jan/2021:11:08:48 , slide: id=8
+date: 10/Jan/2021:11:09:00 , slide: id=10
+date: 10/Jan/2021:11:09:15 , slide: id=8
+date: 10/Jan/2021:11:09:24 , slide: id=6
+date: 10/Jan/2021:11:09:35 , slide: id=0
+date: 10/Jan/2021:11:10:00 , slide: id=8
+condition3
+date: 10/Jan/2021:11:13:39 , slide: id=2
+date: 10/Jan/2021:11:13:43 , slide: id=10
+date: 10/Jan/2021:11:13:56 , slide: id=4
+date: 10/Jan/2021:11:14:07 , slide: id=6
+date: 10/Jan/2021:11:14:19 , slide: id=8
+date: 10/Jan/2021:11:14:29 , slide: id=2
+date: 10/Jan/2021:11:14:44 , slide: id=4
+date: 10/Jan/2021:11:15:09 , slide: id=8
+date: 10/Jan/2021:11:15:31 , slide: id=0
+date: 10/Jan/2021:11:15:43 , slide: id=10
+date: 10/Jan/2021:11:16:59 , slide: id=8
+date: 10/Jan/2021:11:17:03 , slide: id=10
+date: 10/Jan/2021:11:17:17 , slide: id=2
+date: 10/Jan/2021:11:17:28 , slide: id=6
+date: 10/Jan/2021:11:17:37 , slide: id=8
+date: 10/Jan/2021:11:17:48 , slide: id=10
+date: 10/Jan/2021:11:18:16 , slide: id=8
+date: 10/Jan/2021:11:18:17 , slide: id=6
+date: 10/Jan/2021:11:18:26 , slide: id=10

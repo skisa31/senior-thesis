@@ -1,0 +1,11 @@
+condition4
+date: 25/Dec/2020:17:11:19 , slide: id=6
+condition3
+date: 25/Dec/2020:17:37:19 , slide: id=2
+date: 25/Dec/2020:17:37:50 , slide: id=0
+date: 25/Dec/2020:17:38:14 , slide: id=8
+date: 25/Dec/2020:17:38:38 , slide: id=6
+date: 25/Dec/2020:17:39:14 , slide: id=4
+date: 25/Dec/2020:17:39:29 , slide: id=6
+date: 25/Dec/2020:17:39:50 , slide: id=4
+date: 28/Dec/2020:11:36:15 , slide: id=8
