@@ -1,0 +1,6 @@
+.DS_Store
+*.wav
+voice/
+/slidebar/slidebar_img/*/*
+!/slidebar/slidebar_img/*/*.png
+!/slidebar/slidebar_img/*/*.txt
