@@ -24,7 +24,7 @@ def open_smile(audio_file, cnt):
     output_con3 = "./result/opensmile/{}/result_condition3.csv".format(user_name)
     output_con4 = "./result/opensmile/{}/result_condition4.csv".format(user_name)
     if cnt == 1:
-        output_features.to_csv(output_all)
+         output_features.to_csv(output_all)
     else:
         output_features.to_csv(output_all, mode="a", header=False)
     if condition == "condition1":
@@ -37,7 +37,7 @@ def open_smile(audio_file, cnt):
         output_features.to_csv(output_con4, mode="a", header=False)
 
 
-audio = glob("./voice/**/**/*.wav")
+audio = glob("../voice/**/**/*.wav")
 cnt = 0
 for audio_file in audio:
     print(audio_file)
